@@ -1,0 +1,7 @@
+Summarise your findings here (see specification).
+
+The execusion time for the programme to solve each mystery puzzle was recorded.
+The programme used around 850000 microseconds to solve 'mystery1' and around 7000 microseconds to solve 'mystery3'. The programme was not able to solve 'mystery2'.
+
+Thus, 'mystery3' has a difficulty of 'hard', 'mystery1' has a difficulty of 'extremely hard', 'mystery2' is impossible for the programme to solve.
+
